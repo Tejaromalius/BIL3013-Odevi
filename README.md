@@ -1,4 +1,4 @@
-# Ilia Tayefi - BIL 3013 Veri Madenciliğine Giriş
+# BIL 3013 Veri Madenciliğine Giriş
 
 ## Veri Hazırlığı ve Temizleme Süreci
 
