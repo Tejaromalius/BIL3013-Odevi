@@ -1,5 +1,3 @@
-# BIL 3013 Veri Madenciliğine Giriş
-
 ## Veri Hazırlığı ve Temizleme Süreci
 
 ### **Veri Setinin Yüklenmesi**
